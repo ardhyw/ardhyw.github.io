@@ -1,2 +1,2 @@
 # ardhyw.github.io
-Personal notes
+Notes on *
